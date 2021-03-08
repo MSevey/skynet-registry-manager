@@ -5,6 +5,9 @@ entry with a seed and data key. This Skapp allows you update a registry entry
 with a skylink and generates the `skyns://` URI needed to update your HNS TXT
 record.
 
+Current [skylink](https://siasky.net/CAC3pxjcE2Ld-AX1PLHqzZ7g2hajtKtVFVy7NZ3xGuTeXg/)\
+Current [HNS](https://skyvert.hns.siasky.net)
+
 ## Developing this Application
 
 ### Available Scripts
